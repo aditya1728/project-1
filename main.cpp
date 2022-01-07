@@ -4,7 +4,8 @@
 using namespace std ;
 string calcGrade(string* name , string* roll , int* ma , int* en , int* cs , int* phy , int* cy )
 {
-
+  cout<<"hello world";
+  
   double avg = (*ma+*en+*cs+*phy+*cy)/5;
   string grad ;
   cout<< endl ;

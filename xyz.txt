@@ -4,3 +4,4 @@ ayush|kumar|B1
 ayush|kumar|A2
 ayushi|1|D
 ayush|34|A1
+aditya|11|A1
